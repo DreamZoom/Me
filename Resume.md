@@ -37,7 +37,7 @@
   
   接触的框架有.net mvc ,entityframework,springMvc,hibernate等开发框架，用得还比较熟，自己也基于这些框架写了自己的快速开发的框架，放在github上，但还不完善。  
   
-  另外还积累了一些前端技术，包括angularJs,vue,react,对js理解比较深入。在社区项目中还开发过小程序。会一些linux的操作，在社区项目中搭建了一个直播服务器，使用的是开源的srs。  
+  另外还积累了一些前端技术，包括angularJs,vue,react,jquery,ajax,websocket,flex布局,css3的动画等,对js理解比较深入。在社区项目中还开发过小程序。会一些linux的操作，在社区项目中搭建了一个直播服务器，使用的是开源的srs。  
   
   我认为我自己善于学习，善于从网络中寻找解决问题的方法。
   
