@@ -38,21 +38,21 @@
   * mysql  
   * mongodb  
   
-### 后端
-  * C,C++
-  * C#,asp.net,entityframework,asp.net mvc,window桌面程序，
-  * java,springMvc,hibernate,cas单点登录
+### 后端  
+  * C,C++  
+  * C#,asp.net,entityframework,asp.net mvc,window桌面程序  
+  * java,springMvc,hibernate,cas单点登录
   * python  
   * php,thinkPHP
   * nodejs,express,ParseServer  
   * flash,ActionScript3.0
   * 微信公众号开发
   
-### 前端  
-  * Web前端开发,jquery,angularjs,vue,reactjs,bootstrap,iview,antd,
-  * Hybrid App,cordova,ionic 
+### 前端  
+  * Web前端开发,jquery,angularjs,vue,reactjs,bootstrap,iview,antd  
+  * Hybrid App,cordova,ionic 
   * Android  
-  * 微信小程序开发  
+  * 微信小程序开发  
   
   
 # 学习经历
