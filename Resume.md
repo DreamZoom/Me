@@ -2,7 +2,11 @@
 
 姓名：沧海月生  
 
+性别：男
+
 年龄：26  
+
+工作年限：4.5年
 
 坐标：成都
 
@@ -23,36 +27,49 @@
   
   2017  宁夏大数据平台。  
   
-  2018  街子社区便民服务平台。
-# 技术及语言
+  2018  街子社区便民服务平台。  
+  
+  2018  srs直播服务器搭建及社区直播系统开发
+  
+# 技术及语言  
+
 ### 数据库
   * sqlserver  
   * mysql  
   * mongodb  
-### 后端开发
-  * C#  
-  * java  
-  * python  
-  * php  
-  * nodejs  
-### 前端  
-  * Web前端开发  
-  * Hybrid App  
-  * Android
   
+### 后端
+  * C,C++
+  * C#,asp.net,entityframework,asp.net mvc,window桌面程序，
+  * java,springMvc,hibernate,cas单点登录
+  * python  
+  * php,thinkPHP
+  * nodejs,express,ParseServer  
+  * flash,ActionScript3.0
+  * 微信公众号开发
+  
+### 前端  
+  * Web前端开发,jquery,angularjs,vue,reactjs,bootstrap,iview,antd,
+  * Hybrid App,cordova,ionic 
+  * Android  
+  * 微信小程序开发  
+  
+  
 # 学习经历
   2014.6 毕业于成都工业学院
 
-# 个人简介
-  不知不觉就踏入社会4年多了，只觉恍如隔世一般。从青葱少年到如今的老油条，到底磨灭了多少梦想。  
+# 个人简介  
+
+  资深技术宅。  
   
-  所幸在这社会挣扎的4年多里，还算积累了一些知识。  
+  资深的不是技术，而是宅。因为宅，所以平淡，所以恍然。  
   
-  我在开发过程中涉及了C,C#,java,python,php,javascript,nodejs 等开发语言，对 C# java JavaScript较为熟悉，因为用的多。  
+  白驹过隙，4年多过去了。然而我却没有多少成就，没有任何出彩的地方，如同我的人生一样，实乃憾事。  
   
-  接触的框架有.net mvc ,entityframework,springMvc,hibernate等开发框架，用得还比较熟，自己也基于这些框架写了自己的快速开发的框架，放在github上，但还不完善。  
+  我觉得我需要改变了。我需要换个环境。
   
-  另外还积累了一些前端技术，包括angularJs,vue,react,jquery,ajax,websocket,flex布局,css3的动画等,对js理解比较深入。在社区项目中还开发过小程序。会一些linux的操作，在社区项目中搭建了一个直播服务器，使用的是开源的srs。  
+  我学的很杂，什么都会用，但是都不曾深入。但我能从我已知或未知（需要百度）的技术中选择并找到解决方案。
+  
+  我自认为我自己善于学习，善于从网络中寻找解决问题的方法。   
   
-  我认为我自己善于学习，善于从网络中寻找解决问题的方法。
-  
+  抄的是别人的简历，写的是真实的自己。
