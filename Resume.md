@@ -46,8 +46,8 @@
   * python  
   * php,thinkPHP
   * nodejs,express,ParseServer  
-  * flash,ActionScript3.0
-  * 微信公众号开发
+  * flash,ActionScript3.0  
+  * 微信公众号开发
   
 ### 前端  
   * Web前端开发,jquery,angularjs,vue,reactjs,bootstrap,iview,antd  
